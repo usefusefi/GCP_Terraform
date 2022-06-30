@@ -6,7 +6,7 @@
 
 ### Initial Setup
 
-You can apply for the Free Trial provides you with free Cloud Billing credits to pay for resources used while you learn about Google Cloud. 
+You can apply for the Free Trial which provides you with free Cloud Billing credits of 300USD to pay for resources used while you learn about Google Cloud. 
 
 1. Create an account with your Google email ID 
 2. Setup your first [project](https://console.cloud.google.com/)
