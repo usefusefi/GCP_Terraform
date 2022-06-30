@@ -1,9 +1,9 @@
 locals {
-  data_lake_bucket = "gcp_with_tf" #replace it with your project id
+  data_lake_bucket = "gcp_with_tf" #replace it with your storage bucket id
 }
 
 variable "project" {
-  description = "Your GCP Project ID"
+  description = "Your_GCP_Project_ID" #replace it with your project id
 }
 
 variable "region" {
