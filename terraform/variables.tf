@@ -1,5 +1,5 @@
 locals {
-  data_lake_bucket = "gcp_with_tf" #replace it with your storage bucket id
+  data_lake_bucket = "gcp_with_tf" #replace it with your google storage bucket id
 }
 
 variable "project" {
