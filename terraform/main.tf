@@ -28,6 +28,7 @@ resource "google_storage_bucket" "data-lake-bucket" {
     enabled     = true
   }
 
+  #Triggers the action if the condition meets
   lifecycle_rule {
     action {
       type = "Delete"
