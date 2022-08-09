@@ -1,4 +1,4 @@
-# Overview 
+# Overview:
 This shows how we can create the whole GCP infra (in our case: storage bucket, and bigquery dataset) using Terraform in few simple steps (~5 minutes)
 
 ## Local Setup for Terraform and GCP
