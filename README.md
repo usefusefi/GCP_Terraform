@@ -15,5 +15,5 @@ This shows how we can create the whole GCP infra (in our case: storage bucket, a
 2. [IAM / Access specific to this course](gcp_overview.md#setup-for-access)
 
 ###
-Your setup is ready!
+Your setup is ready
 Now head to the [terraform](terraform) directory, and perform the execution steps to create your infrastructure.
